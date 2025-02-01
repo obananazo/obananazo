@@ -1,5 +1,7 @@
 # Hi there 👋 I'm BananaZ
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=obananazo&theme=onedark&title=Experience&title=Commits&title=Issues&=title=PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
 💻 Cloud Developer | 🔓 Cybersecurity Enthusiast | 🎮 Game Dev Prospect
 
 ## About Me
@@ -24,9 +26,8 @@ _(Fun fact: I'm a top 5% player in For Honor ⚔)_
 
 ## 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obananazo&layout=compact&theme=dracula)](https://github.com/obananazo)
-[![trophy](https://github-profile-trophy.vercel.app/?username=obananazo&theme=onedark&title=Experience&title=Commits&title=Issues&=title=PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 ![BananaZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=obananazo&show_icons=true&theme=dracula)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obananazo&layout=compact&theme=dracula)](https://github.com/obananazo)
 
 <!-- ## 🚀 Featured Projects -->
 <!-- TODO -->
