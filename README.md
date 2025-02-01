@@ -1,46 +1,50 @@
-<!-- Header -->
+# Hi there 👋 I'm BananaZ
 
-<h1 align="center">Hi 👋, I'm BananaZ</h1>
-<h3 align="center">A wizard pondering his orb 🔮</h3>
+💻 Cloud Developer | 🔓 Cybersecurity Enthusiast | 🎮 Game Dev Prospect
 
-<!-- Profile views -->
+## About Me
+Priding myself in the craft I produce, I always look out to get back to the core of any skill and knowledge. I'm passionate about the little things: resource efficiency, security and meaning to make a difference. Currently exploring cybersecurity with focus on penetration testing.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=obananazo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+## 💬 Interests
 
-<!-- Profile trophies -->
+- Python tricks 🐍
+- Video games 🎮
+- Science (MINT) 🧠
+- Philosophy 💭
+- Astronomy (Stargazing) 🔭
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obananazo" alt="Github profile trophies" /></a> </p>
+_(Fun fact: I'm a top 5% player in For Honor ⚔)_
 
-<!-- About me -->
-<ul>
-  <li>🌱 I’m currently <b>Open to work</b></li>
-  <li>💬 Ask me about: <b>AWS, Python, Video games, Science (MINT), Philosophy, Astronomy</b></li>
-  <li>⚡ Fun fact: <b>Top 5% player in For Honor ⚔</b></li>
-</ul>
+## 🔧 Technologies & Tools
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<!-- Connections -->
+## 📊 GitHub Stats
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/walter-kopp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walter-kopp" height="30" width="40" /></a>
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obananazo&layout=compact&theme=dracula)](https://github.com/obananazo)
+[![trophy](https://github-profile-trophy.vercel.app/?username=obananazo&theme=onedark&title=Experience&title=Commits&title=Issues&=title=PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+![BananaZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=obananazo&show_icons=true&theme=dracula)
 
-<!-- Languages and Tools -->
+<!-- ## 🚀 Featured Projects -->
+<!-- TODO -->
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🎯 Current Focus
+- Refinining fundamentals
+- Learning cybersecurity
+- Look out for sensible certifications
 
-<!-- Github stats -->
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/walter-kopp)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=obananazo&show_icons=true&locale=en&title_color=ffbb02"> </p>
+---
+⭐️ From [obananazo](https://github.com/obananazo)
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=obananazo&date_format=M%20j%5B%2C%20Y%5D&ring=FFBB02&sideNums=36DD64&currStreakNum=DD581B&dates=757575"> </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=obananazo&theme=dracula)](https://github.com/obananazo)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obananazo">
-</p
-
-<!--- HackTheBox Badges --->
-### HackTheBox Badges
+<!-- ### 🏆 HackTheBox Badges
 
 |Badge|Name|Description|
 |---|---|---|
@@ -48,3 +52,4 @@
 |<img src="https://academy.hackthebox.com/storage/badges/7f81e8837d0540d610c5019478c7647a/logo.png" width="150" height="150" alt="Unwavering User">|Unwavering User|Awarded when you achieve your first weekly streak|
 |<img src="https://academy.hackthebox.com/storage/badges/your-request-is-my-demand.png" width="150" height="150" alt="Your request is my demand">|Your request is my demand |Web Requests module completed |
 |<img src="https://academy.hackthebox.com/storage/badges/playing-with-the-mess.png" width="150" height="150" alt="Playing with the mess">|Playing with the mess|JavaScript Deobfuscation module completed|
+-->
