@@ -2,8 +2,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=obananazo&theme=onedark&title=Experience&title=Commits&title=Issues&=title=PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
-💻 Cloud Developer | 🔓 Cybersecurity Enthusiast | 🎮 Game Dev Prospect
-
 ## About Me
 Priding myself in the craft I produce, I always look out to get back to the core of any skill and knowledge. I'm passionate about the little things: resource efficiency, security and meaning to make a difference. Currently exploring cybersecurity with focus on penetration testing.
 
