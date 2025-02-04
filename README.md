@@ -3,8 +3,10 @@
 
 <!-- Header -->
 # Hi there 👋 I'm BananaZ
-
-![](https://github-profile-trophy.vercel.app/?username=obananazo&title=Experience&title=Commits&title=Issues&=title=PullRequest&include_all_commits=true&count_private=true&theme=dracula)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=obananazo&title=Experience&title=Commits&title=Issues&=title=PullRequest&include_all_commits=true&count_private=true&theme=dracula&column=4&no-frame=true" />
+</div>
+<!-- ![](https://github-profile-trophy.vercel.app/?username=obananazo&title=Experience&title=Commits&title=Issues&=title=PullRequest&include_all_commits=true&count_private=true&theme=dracula&margin-h=15) -->
 
 <!-- Intro -->
 ## About Me
