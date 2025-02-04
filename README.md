@@ -1,21 +1,27 @@
+<!-- Banner -->
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
+
+<!-- Header -->
 # Hi there 👋 I'm BananaZ
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=obananazo&theme=onedark&title=Experience&title=Commits&title=Issues&=title=PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=obananazo&title=Experience&title=Commits&title=Issues&=title=PullRequest&include_all_commits=true&count_private=true&theme=dracula)
 
+<!-- Intro -->
 ## About Me
 Priding myself in the craft I produce, I always look out to get back to the core of any skill and knowledge. I'm passionate about the little things: resource efficiency, security and meaning to make a difference. Currently exploring cybersecurity with focus on penetration testing.
 
+<!-- Info -->
 ## 💬 Interests
 
-- Python tricks 🐍
-- Video games 🎮
-- Science (MINT) 🧠
-- Philosophy 💭
-- Astronomy (Stargazing) 🔭
-
-_(Fun fact: I'm a top 5% player in For Honor ⚔)_
+- 🐍 Python tricks
+- 🎮 Video games
+- 🧠 Science (MINT)
+- 💭 Philosophy
+- 🔭 Astronomy (Stargazing)
+- ⭐️ Fun fact: I'm a top 5% player in For Honor ⚔
 
 ## 🔧 Technologies & Tools
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -26,11 +32,11 @@ _(Fun fact: I'm a top 5% player in For Honor ⚔)_
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-
 ## 📊 GitHub Stats
 
-![BananaZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=obananazo&show_icons=true&theme=dracula)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obananazo&layout=compact&theme=dracula)](https://github.com/obananazo)
+![BananaZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=obananazo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=obananazo&include_all_commits=true&count_private=true&theme=dracula)](https://github.com/obananazo)
+
 
 <!-- ## 🚀 Featured Projects -->
 <!-- TODO -->
@@ -44,9 +50,9 @@ _(Fun fact: I'm a top 5% player in For Honor ⚔)_
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/walter-kopp)
 
 ---
-⭐️ From [obananazo](https://github.com/obananazo)
+<!-- Footer -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=obananazo&theme=dracula)](https://github.com/obananazo)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=obananazo&layout=compact&include_all_commits=true&count_private=true&theme=dracula)
 
 <!-- ### 🏆 HackTheBox Badges
 
@@ -57,3 +63,5 @@ _(Fun fact: I'm a top 5% player in For Honor ⚔)_
 |<img src="https://academy.hackthebox.com/storage/badges/your-request-is-my-demand.png" width="150" height="150" alt="Your request is my demand">|Your request is my demand |Web Requests module completed |
 |<img src="https://academy.hackthebox.com/storage/badges/playing-with-the-mess.png" width="150" height="150" alt="Playing with the mess">|Playing with the mess|JavaScript Deobfuscation module completed|
 -->
+
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
