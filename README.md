@@ -6,7 +6,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=obananazo&title=Experience&title=Commits&title=Issues&=title=PullRequest&include_all_commits=true&count_private=true&theme=dracula&column=4&no-frame=true" />
 </div>
-<!-- ![](https://github-profile-trophy.vercel.app/?username=obananazo&title=Experience&title=Commits&title=Issues&=title=PullRequest&include_all_commits=true&count_private=true&theme=dracula&margin-h=15) -->
 
 <!-- Intro -->
 ## About Me
@@ -36,9 +35,14 @@ Priding myself in the craft I produce, I always look out to get back to the core
 
 ## 📊 GitHub Stats
 
-![BananaZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=obananazo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=obananazo&include_all_commits=true&count_private=true&theme=dracula)](https://github.com/obananazo)
+<div align="center">
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=obananazo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/>
+  <img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=obananazo&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obananazo&layout=compact&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
+</div>
 
 <!-- ## 🚀 Featured Projects -->
 <!-- TODO -->
@@ -51,10 +55,8 @@ Priding myself in the craft I produce, I always look out to get back to the core
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/walter-kopp)
 
----
 <!-- Footer -->
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=obananazo&layout=compact&include_all_commits=true&count_private=true&theme=dracula)
+<!-- --- -->
 
 <!-- ### 🏆 HackTheBox Badges
 
