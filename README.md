@@ -53,7 +53,7 @@ Priding myself in the craft I produce, I always look out to get back to the core
 - Look out for sensible certifications
 
 ## 📫 Connect With Me
-<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username) -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
 
 <!-- Footer -->
 <!-- --- -->
