@@ -40,6 +40,9 @@ Priding myself in the craft I produce, I always look out to get back to the core
 <div align="center">
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=obananazo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/>
 <!--   <img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=obananazo&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/> -->
+</div>
+
+<div>
   <img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=obananazo&theme=dracula&hide_border=true"/>
 </div>
 
