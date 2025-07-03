@@ -16,9 +16,9 @@ Priding myself in the craft I produce, I always look out to get back to the core
 
 - 🐍 Python tricks
 - 🎮 Video games
-- 🧠 Science (MINT)
+- 🧠 Science (physics, chemistry, biology)
 - 💭 Philosophy
-- 🔭 Astronomy (Stargazing)
+- 🔭 Astronomy (stargazing, space research)
 - ⭐️ Fun fact: I'm a top 5% player in For Honor ⚔
 
 <!-- Technical info -->
