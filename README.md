@@ -51,9 +51,7 @@ Priding myself in the craft I produce, I always look out to get back to the core
 
 <!-- Current -->
 ## 🎯 Current Focus
-- Refinining fundamentals
-- Learning cybersecurity
-- Look out for sensible certifications
+- No idea tbh
 
 <!-- Socials -->
 <!-- ## 📫 Connect With Me -->
