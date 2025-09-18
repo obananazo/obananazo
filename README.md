@@ -9,7 +9,7 @@
 
 <!-- Intro -->
 ## About Me
-Priding myself in the craft I produce, I always look out to get back to the core of any skill and knowledge. I'm passionate about resource efficiency, security and meaning to make a difference. Currently exploring cybersecurity with focus on penetration testing.
+Priding myself in the craft I produce, I always look out to get back to the core of any skill and knowledge. I'm passionate about resource efficiency, security and meaning to make a difference.
 
 <!-- Interests -->
 ## 💬 Interests
