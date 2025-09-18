@@ -11,14 +11,17 @@
 ## 👤 About Me
 I pride myself in craftsmenship and look deeper into fundamentals whenever I'm able to.
 They're the core of any skill.
+
 I've got a knowledge-hungry mind and am passionate about resource efficiency, security and simplicity.
 My heart desires contributing to real meaning and value to this world, to make a difference. A real one.
 
 ## 📚 Experience
 I started with the AWS cloud, Python & JavaScript.
 Automated lots of CI/CD pipelines using AWS services, Github Actions and Terraform.
+
 Heavily utilised custom written AWS Lambdas and microservice architectures.
 I enjoyed documenting as neatly and simple as possible with Jira.
+
 
 <!-- Interests -->
 ## 💬 Interests
