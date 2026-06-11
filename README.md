@@ -88,7 +88,7 @@ Returning to cloud development — deepening AWS skills, exploring security, wor
 <!-- Socials -->
 ## 📬 Contact
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/246350682607583233)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username) -->
 
 <!-- Footer -->
 <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
