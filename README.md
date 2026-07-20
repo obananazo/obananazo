@@ -83,7 +83,9 @@ I enjoyed documenting as neatly and simple as possible with Jira.
 <!-- Current -->
 ## 🎯 Current Focus
 
-Returning to cloud development — deepening AWS skills, exploring security, working on personal projects
+Returning to cloud development — deepening AWS skills, exploring security, working on personal projects.
+
+Learning Kubernetes.
 
 <!-- Socials -->
 ## 📬 Contact
