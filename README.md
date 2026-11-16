@@ -72,12 +72,12 @@ I enjoyed documenting as neatly and simple as possible with Jira.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=obananazo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/>
+  <img height=150 src="https://github-stats-extended.vercel.app/api?username=obananazo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/>
   <img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=obananazo&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obananazo&layout=compact&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=obananazo&layout=compact&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
 </div>
 
 <!-- Current -->
