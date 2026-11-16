@@ -4,7 +4,7 @@
 <!-- Header -->
 # Hi there 👋 I'm BananaZ
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=obananazo&title=Experience&title=Commits&title=Issues&=title=PullRequest&include_all_commits=true&count_private=true&theme=dracula&column=4&no-frame=true" />
+  <img src="https://github-trophy-jagratadeb.vercel.app/?username=obananazo&title=Experience&title=Commits&title=Issues&=title=PullRequest&include_all_commits=true&count_private=true&theme=dracula&column=4&no-frame=true" />
 </div>
 
 <!-- Intro -->
