@@ -73,7 +73,7 @@ I enjoyed documenting as neatly and simple as possible with Jira.
 
 <div align="center">
   <img height=150 src="https://github-stats-extended.vercel.app/api?username=obananazo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/>
-  <img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=obananazo&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/>
+  <img height=150 src="https://streak-stats.demolab.com/?user=obananazo&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/>
 </div>
 
 <div align="center">
